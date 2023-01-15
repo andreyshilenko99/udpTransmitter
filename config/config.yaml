@@ -1,0 +1,10 @@
+appName: udpTransmitter
+
+server:
+  host: "localhost"
+  port: 6001
+  conn_number: 2
+
+client:
+  host: "localhost"
+  port: 6001

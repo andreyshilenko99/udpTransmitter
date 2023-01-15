@@ -1,0 +1,27 @@
+{"dump": [{
+  "type": "drone",
+  "latitude": "59.020113",
+  "longitude": "30.567897",
+  "height": 500
+},
+  {
+  "type": "drone",
+  "height": 200
+  },
+  {
+  "mark": "DJI",
+  "type": "drone",
+  "latitude": "59.123133",
+  "longitude": "30.000000",
+  "height": 345
+  },
+  {
+  "mark": "DJI",
+  "type": "drone",
+  "latitude": "59.187424",
+  "longitude": "30.111111",
+  "height": 678,
+  "id": 22
+  }
+]
+}
