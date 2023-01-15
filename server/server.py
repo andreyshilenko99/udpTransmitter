@@ -26,5 +26,5 @@ class Server:
                 conn.send(data.upper())
                 time.sleep(1)
         except ConnectionResetError:
-            for pack in packets:
-                
+            print(packets)
+
